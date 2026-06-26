@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 
 MONGODB: process.env.MONGODB_URI === undefined ? 'mongodb+srv://oshadamd05_db_user:LzWjINfr32GpUo6v@cluster0.mu6qfvw.mongodb.net/?appName=Cluster0' : process.env.MONGODB_URI,
-SESSION_ID: process.env.SESSION_ID === undefined ? 'ASITHA-MD~3bf5be13f37b5453' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=2898484ab4b7286a' : process.env.SESSION_ID,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 SESSION_NAME: process.env.SESSION_NAME === undefined ? "asitha" : process.env.SESSION_NAME,
 
