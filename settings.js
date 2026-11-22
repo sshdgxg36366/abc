@@ -7,6 +7,6 @@ module.exports = {
 
 SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=b35969f34966d2b8' : process.env.SESSION_ID,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SESSION_NAME: process.env.SESSION_NAME === undefined ? "asitha" : process.env.SESSION_NAME,
+SESSION_NAE: process.env.SESSION_NAME === undefined ? "asitha" : process.env.SESSION_NAME,
 
 };
